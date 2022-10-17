@@ -5,3 +5,5 @@ joghurt
 carrots
 cherries
 cereales
+cucumbers
+radishes
